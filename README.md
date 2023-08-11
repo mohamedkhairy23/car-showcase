@@ -1,3 +1,4 @@
+Note: there is an issue in scrolling when rendering the page
 Demo Link: https://car-showcase-2h4ixk3s4-mohamedkhairy23.vercel.app/
 
 Features and Tools:
